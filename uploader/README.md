@@ -3,6 +3,7 @@ Please read the following instructions carefully:
 Installation
 
 Use pip to install the dist
+Execute the file executer.py
 
 Requirements
 
