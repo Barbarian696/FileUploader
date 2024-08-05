@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/file_uploader/__init__.py
+src/file_uploader/executer.py
+src/file_uploader/file_reader.py
+src/file_uploader/file_sorter.py
+src/file_uploader/file_uploader.py
+src/file_uploader.egg-info/PKG-INFO
+src/file_uploader.egg-info/SOURCES.txt
+src/file_uploader.egg-info/dependency_links.txt
+src/file_uploader.egg-info/top_level.txt
